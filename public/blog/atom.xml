@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BLOG_NAME</title>
+ <link href="YOUR_URL/atom.xml" rel="self"/>
+ <link href="YOUR_URL"/>
+ <updated>2013-01-30T17:15:58-05:00</updated>
+ <id>BLOG_URL</id>
+ <author>
+   <name>BLOG_NAME</name>
+ </author>
+
+ 
+ <entry>
+   <title>Smarter Fashion Through Data</title>
+   <link href="YOUR_URL/smarter-fashion-through-data.html"/>
+   <updated>2013-01-30T00:00:00-05:00</updated>
+   <id>BLOG_URL/smarter-fashion-through-data</id>
+   <content type="html">&lt;p&gt;A few months ago H&amp;amp;M released a collaboration collection with Maison Martin Margiela.  Despite significant hype, the collection tanked.  I've read numerous opinion articles that offer explanations to why the collaboration failed, but I have one idea that could have avoided the catastrophe of an unsuccessful line before it's even released.  Companies should be using data to make better decisions regarding designer collaborations.&lt;/p&gt;
+
+&lt;p&gt;Here's what H&amp;amp;M could have examined before they were forced to slash the prices on a failing Margiela collection in areas outside of NYC:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The strategy that H&amp;amp;M used was to pick best selling pieces from previous Margiela collections and then re-create them for the H&amp;amp;M customer.  The fundamental beliefs of the Margiela customer varies starkly with the fundamental beliefs of the H&amp;amp;M customer.  The Margiela customer is slow, buys less, is intellectual, and appreciates design.  The H&amp;amp;M customer is fast, buys a lot frequently, and isn't necessarily design focused.  H&amp;amp;M should have known this and examined how it would affect sales.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The number of online mentions by bloggers didn't translate into sales.  Marketing and PR campaigns can only take a collection so far.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;H&amp;amp;M could have predicted sales and customers better by looking at data on recent Margiela markdowns on sites like Yoox, Barney's, and Net-a-Porter.  They could have also looked at online buzz and run affinity analysis on their target market.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;My guess is that H&amp;amp;M did some of that, but the tools available today fall short.  That's why we're building a custom prediction algorithm from the ground up.  Keep watching.  We're about to reverse trend forecasting.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fashion Alerts at Your Fingertips</title>
+   <link href="YOUR_URL/fashion-alerts-at-your-fingertips.html"/>
+   <updated>2013-01-30T00:00:00-05:00</updated>
+   <id>BLOG_URL/fashion-alerts-at-your-fingertips</id>
+   <content type="html">&lt;p&gt;Put a bird on it pariatur ugh sustainable. Pop-up do 3 wolf moon, meggings mcsweeney's gentrify stumptown actually elit williamsburg blue bottle keffiyeh DIY jean shorts. Ennui letterpress irure pour-over, ethnic direct trade you probably haven't heard of them velit fingerstache vice nesciunt banh mi. Cupidatat odio cray aesthetic. Yr lomo synth, gluten-free adipisicing authentic letterpress blog tumblr exercitation. Fingerstache photo booth sapiente small batch. Food truck locavore messenger bag, nihil gluten-free delectus duis pitchfork authentic iphone.&lt;/p&gt;
+
+&lt;p&gt;Mcsweeney's helvetica sed delectus pariatur. Proident echo park flexitarian, et assumenda banh mi trust fund. Retro terry richardson bushwick, iphone ex butcher put a bird on it accusamus skateboard mumblecore minim sapiente umami bespoke. Plaid hella wayfarers et. Aliquip neutra wayfarers laborum odd future letterpress. Nostrud odd future incididunt, retro cosby sweater selfies chambray tattooed terry richardson laboris narwhal tumblr. Austin eiusmod high life ugh banjo put a bird on it fixie pickled cupidatat meh.&lt;/p&gt;
+
+&lt;p&gt;Wolf ethnic enim, synth blog vice eiusmod irure forage beard occupy shoreditch. Neutra squid selfies, et shoreditch YOLO art party 8-bit irony pop-up ea pork belly. Gentrify deserunt do williamsburg authentic consequat laboris, small batch viral literally. Letterpress direct trade pour-over scenester excepteur. Bespoke thundercats ea organic irony carles, keffiyeh cillum four loko id you probably haven't heard of them helvetica tattooed. Readymade american apparel food truck keffiyeh marfa salvia cliche, id small batch excepteur raw denim next level selvage put a bird on it voluptate. Thundercats put a bird on it accusamus, velit typewriter mcsweeney's tattooed 8-bit ennui post-ironic brunch retro mumblecore cosby sweater gentrify.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,46 @@
+<h1 class="product-header">Listing products</h1>
+<div id="product-bg">
+
+<div class="user-nav">
+    <% if user_signed_in? %>
+      Logged in as <strong><%= current_user.username %></strong>
+      <%= link_to "Logout", destroy_user_session_path, method: :delete %>
+    <% else %>
+      <%= link_to "Login", new_user_session_path %>
+      <%= link_to "Sign Up", new_user_registration_path %>
+    <% end %> 
+</div><!--/user-nav-->
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Designer</th>
+    <th>Brand</th>
+    <th>Description</th>
+    <th>Color</th>
+    <th>Size</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @products.each do |product| %>
+  <tr>
+    <td><%= product.name %></td>
+    <td><%= product.designer %></td>
+    <td><%= product.brand %></td>
+    <td><%= product.description %></td>
+    <td><%= product.color %></td>
+    <td><%= product.size %></td>
+    <td><%= link_to 'Show', product %></td>
+    <td><%= link_to 'Edit', edit_product_path(product) %></td>
+    <td><%= link_to 'Destroy', product, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Product', new_product_path %>
+
+<!--/poduct-bg-->
